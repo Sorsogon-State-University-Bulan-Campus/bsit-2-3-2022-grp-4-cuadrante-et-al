@@ -1,1 +1,6 @@
-# bsit-2-3-2022-grp-4-cuadrante-et-al
+# <Title of your project>
+
+Add description about your project
+  
+# <Members> (with github username)
+  * Juan Dela Cruz (@juandelacruz)
