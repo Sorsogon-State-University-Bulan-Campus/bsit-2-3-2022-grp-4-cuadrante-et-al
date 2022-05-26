@@ -25,7 +25,7 @@ Shooting guard: Typically the best long-range and mid-range shooter in the team.
 
 Small forward: Playing as a short forward needs a versatile skill set. It requires strength and height as well as speed and dribbling abilities. Mid-range and short-range shooting abilities are also important.
 
-Power forward: A power forward is somewhat similar to a small forward but with a bigger focus on physicality. A power forward is usually a foil for the center and are the team’s most dependable scorers from inside the paint.
+
 
 Center: Usually the tallest player in the team, a center is required to occupy the space nearest to the basket in both halves. In defence, they are tasked to pick rebounds and block opposition shooters while their offensive duties require them to finish off short-range moves or shield out defenders to allow their team-mates a clean drive at the basket.
 
